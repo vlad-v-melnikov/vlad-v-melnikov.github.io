@@ -2,4 +2,4 @@ name: Vlad Melnikov, Junior Backend Dev
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-cayman
+theme: minima
